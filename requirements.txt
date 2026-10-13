@@ -1,0 +1,7 @@
+Flask>=3.0,<4
+python-dotenv>=1.0,<2
+razorpay>=1.4,<2
+pypdf>=5,<7
+requests>=2.31,<3
+Pillow>=10,<13
+pywin32>=306; sys_platform == 'win32'
